@@ -4,7 +4,7 @@ A template to deploy [JSON Server](https://github.com/typicode/json-server) to [
 
 Demo from this repository:
 
-1. <https://api.uitkitku-app.vercel.app>
+1. <https://api-uitkitku-app.vercel.app>
 
 ## Endpoint API
 
