@@ -21,7 +21,7 @@ server.use(middlewares);
 server.use(
   jsonServer.rewriter({
     "/api/*": "/$1",
-    "/recommended-ui-posts/:resource/:id/show": "/:resource/:id",
+    "/api/recommended-ui-posts/:resource/:id/show": "/:resource/:id",
   })
 );
 server.use(router);
